@@ -1,5 +1,5 @@
-const char* ssid     = "MIP_JIO2";   
-const char* password = "dandi@12345";   
+const char* ssid     = "NCAIR IOT";   
+const char* password = "Asim@123Tewari";   
  
 const char* apssid = "ESP32-CAM";
 const char* appassword = "12345678";    
